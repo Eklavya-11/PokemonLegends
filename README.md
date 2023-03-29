@@ -19,3 +19,4 @@ Engine
     Canvas renderer
     WebGL renderer
     Normal map based lighting
+    Map connections
