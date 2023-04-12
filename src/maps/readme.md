@@ -1,3 +1,6 @@
-Not all the maps have been uploaded here. (over 100+)
+-    These maps were created using Tiled software.
+-    Please note that not all of the maps (over 100+) have been uploaded here.
 
-made using Tiled software.
+-----------------
+
+Regards, Eklavya11 ^_^
