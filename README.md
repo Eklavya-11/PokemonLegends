@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eklavya-11/PokemonLegends/main/resources/Pl-logo.png?token=GHSAT0AAAAAACAWWEVTSMWULERQ362XTHMAZBXHYPA">
+</p>
+<h1 align="center">PokemonLegends - MMORPG game</h1> <br>
+
+
+
+
+
+
 # pokehail
 mmo game todo
 
