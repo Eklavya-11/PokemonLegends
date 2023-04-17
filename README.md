@@ -11,6 +11,7 @@
 # pokehail
 mmo game todo
 
+custom captcha to verify bots :tick:
 
 Engine
 
