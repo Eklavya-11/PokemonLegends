@@ -43,4 +43,5 @@ To start playing PokemonLegends, go to the game's website and create an account.
 *We do not promote self-hosting of the game, hence php & other backend files have been excluded*
 
 ### Credits
-Special thanks go out to the community for their support and feedback that helped shape the game into what it is today (Kyro, Sharks12).
+Special thanks go out to the community for their support and feedback that helped shape the game into what it is today (Kyro, Sharks12).<br>
+**Disclaimer: PokemonLegends is a fanmade game and is not affiliated with or endorsed by Nintendo Inc. or The Pokemon Company in any way.**
