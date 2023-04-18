@@ -6,7 +6,7 @@ session_start();
 // Check if user is already logged in
 if(isset($_SESSION['user_id'])) {
   // Redirect to home page
-  header("Location: home.php");
+  header("Location: explore.php");
   exit;
 }
 
@@ -42,7 +42,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
       $_SESSION['username'] = $user['username'];
 
       // Redirect to home page
-      header("Location: home.php");
+      header("Location: explore.php");
       exit;
     } else {
       // Invalid password
@@ -61,7 +61,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Login</title>
+  <title>Sample Login</title>
 </head>
 <body>
   <h1>Login</h1>
