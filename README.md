@@ -10,6 +10,7 @@ The browser-based MMORPG that offers battles, breeding, trading, and exploration
 <p align="center">
   <img src="https://github.com/Eklavya-11/PokemonLegends/blob/main/screenshots/pl-ashfall.png?raw=true">
   <img src="https://github.com/Eklavya-11/PokemonLegends/blob/main/screenshots/cranidosPoke.png?raw=true">
+  These 2 ss are just a tip of the iceberg
 </p>
 
 ## Features/Implemented
