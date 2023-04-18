@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eklavya-11/PokemonLegends/main/resources/Pl-logo.png?token=GHSAT0AAAAAACAWWEVTSMWULERQ362XTHMAZBXHYPA">
+  <img src="https://github.com/Eklavya-11/PokemonLegends/blob/main/resources/Pl-logo.png?raw=true">
 </p>
 <h1 align="center">PokemonLegends - MMORPG game</h1> <br>
 
